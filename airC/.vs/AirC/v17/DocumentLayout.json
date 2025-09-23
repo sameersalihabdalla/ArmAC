@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Last Projects\\Army AC\\airC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmtraceusers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmtraceusers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmpilots.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmpilots.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|d:\\my last projects\\army ac\\airc\\esastore\\frmusersmanagement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmusersmanagement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmserversettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmserversettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmparts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmparts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmflights.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmflights.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmfixing.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmfixing.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmcustomcolors.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmcustomcolors.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmcommanders.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmcommanders.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmchangepassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmchangepassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmbackupdb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmbackupdb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmaircrafts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmaircrafts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmabout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmabout.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frm_flights_report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frm_flights_report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frm_delete.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frm_delete.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AirC||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\repuserstrace.rpt||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\repuserstrace.rpt||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\rep_flights.rpt||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\rep_flights.rpt||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\rep_aircraft_list.rpt||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\rep_aircraft_list.rpt||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmflights.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmflights.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmusersmanagement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmusersmanagement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|D:\\My Last Projects\\Army AC\\airC\\esastore\\frmparts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1395366D-BD10-45CE-ADC4-8DEEF34B92F6}|EsaStore\\AirC.vbproj|solutionrelative:esastore\\frmparts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTraceUsers.vb [Design - English (Canada)]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmTraceUsers.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmTraceUsers.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmTraceUsers.vb [Design - English (Canada)]",
+              "RelativeToolTip": "EsaStore\\FrmTraceUsers.vb [Design - English (Canada)]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T12:06:12.117Z",
+              "EditorCaption": " [Design - English (Canada)]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPilots.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmPilots.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmPilots.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmPilots.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmPilots.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T12:05:53.977Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmFlights.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmFlights.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmFlights.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmFlights.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmFlights.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T11:33:11.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmLogin.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmLogin.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmLogin.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmLogin.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T11:46:11.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMain.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmMain.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmMain.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmMain.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmMain.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T11:43:39.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmUsersManagement.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmUsersManagement.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmUsersManagement.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmUsersManagement.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmUsersManagement.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T11:49:16.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmFixing.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmFixing.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmFixing.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmFixing.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmFixing.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T12:04:46.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmServerSettings.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmServerSettings.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmServerSettings.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmServerSettings.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmServerSettings.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T11:59:59.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmCustomColors.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmCustomColors.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmCustomColors.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmCustomColors.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmCustomColors.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T12:04:39.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmParts.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmParts.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmParts.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmParts.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmParts.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T11:33:15.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmCommanders.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmCommanders.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmCommanders.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmCommanders.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmCommanders.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T12:04:27.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmAbout.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmAbout.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmAbout.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmAbout.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmAbout.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T12:03:46.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmFlights.vb",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmFlights.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmFlights.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmFlights.vb",
+              "RelativeToolTip": "EsaStore\\FrmFlights.vb",
+              "ViewState": "AgIAADYEAAAAAAAAAAAlwEUEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T11:59:28.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Frm_Flights_Report.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\Frm_Flights_Report.vb",
+              "RelativeDocumentMoniker": "EsaStore\\Frm_Flights_Report.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\Frm_Flights_Report.vb [Design]",
+              "RelativeToolTip": "EsaStore\\Frm_Flights_Report.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T12:03:34.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmAirCrafts.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmAirCrafts.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmAirCrafts.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmAirCrafts.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmAirCrafts.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T12:00:32.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmBackupDb.vb [Design - Arabic]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmBackupDb.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmBackupDb.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmBackupDb.vb [Design - Arabic]",
+              "RelativeToolTip": "EsaStore\\FrmBackupDb.vb [Design - Arabic]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T12:00:31.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmChangePassword.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmChangePassword.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmChangePassword.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmChangePassword.vb [Design]",
+              "RelativeToolTip": "EsaStore\\FrmChangePassword.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T12:00:20.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Frm_Delete.vb [Design]",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\Frm_Delete.vb",
+              "RelativeDocumentMoniker": "EsaStore\\Frm_Delete.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\Frm_Delete.vb [Design]",
+              "RelativeToolTip": "EsaStore\\Frm_Delete.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T12:03:24.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AirC",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\AirC.vbproj",
+              "RelativeDocumentMoniker": "EsaStore\\AirC.vbproj",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\AirC.vbproj",
+              "RelativeToolTip": "EsaStore\\AirC.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-23T12:02:46.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RepUsersTrace.rpt",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\RepUsersTrace.rpt",
+              "RelativeDocumentMoniker": "EsaStore\\RepUsersTrace.rpt",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\RepUsersTrace.rpt",
+              "RelativeToolTip": "EsaStore\\RepUsersTrace.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-23T12:01:19.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Rep_flights.rpt",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\Rep_flights.rpt",
+              "RelativeDocumentMoniker": "EsaStore\\Rep_flights.rpt",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\Rep_flights.rpt",
+              "RelativeToolTip": "EsaStore\\Rep_flights.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-23T12:01:17.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Rep_Aircraft_list.rpt",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\Rep_Aircraft_list.rpt",
+              "RelativeDocumentMoniker": "EsaStore\\Rep_Aircraft_list.rpt",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\Rep_Aircraft_list.rpt",
+              "RelativeToolTip": "EsaStore\\Rep_Aircraft_list.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-23T12:01:14.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmUsersManagement.vb",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmUsersManagement.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmUsersManagement.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmUsersManagement.vb",
+              "RelativeToolTip": "EsaStore\\FrmUsersManagement.vb",
+              "ViewState": "AgIAABQBAAAAAAAAAAAqwCIBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-23T11:49:52.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmParts.vb",
+              "DocumentMoniker": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmParts.vb",
+              "RelativeDocumentMoniker": "EsaStore\\FrmParts.vb",
+              "ToolTip": "D:\\My Last Projects\\Army AC\\airC\\EsaStore\\FrmParts.vb",
+              "RelativeToolTip": "EsaStore\\FrmParts.vb",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAqwFkBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-11T08:15:29.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
