@@ -1,77 +1,70 @@
-<body dir="rtl" style="text-align:center;">
+<body style="text-align:center;">
 
-<h1 style="color:red;">نظام ArmAC / Airc Sytem 2025</h1>
-<h2 style="color:Yellow;">انتج بواسطة Sameer Salih </h2>
-<h4>sameerssaom@gmail.com |  +24999249900 | +249912230352</h4>
-<hr>
- 
- <h3>اسم المشروع  : 		 ArmAC</h3>
- <h5>تاريخ التصميم :		 <u>2023-2025</u></h5>
- <h5>النوع : <u>تسجيل الرحلات الجوية </u></h5>
- <h5>Language : <u>Visual Basic.NET</u></h5>
- <h5>قاعدة البيانات : <u>Mysql</u></h5>
- <h5>التقارير : <u>Crystal Report</u></h5>
- <h5>أدوات أخرى : <u>Adobe Photoshop</u></h5>
- <h5>اسم المطور  : <u>Sameer Salih | سمير صالح</u></h5>
- 
- # الغرض :
- نظام لتعقب الرحلات الجوية للطائرات المسيرة لتسجيل الاستهلاك و صلاحية القطع و الأجزاء و مراقبة الأعطال و الصيانة
- 
- 
- 
- 
- نماذج لواجهات النظام
- 
-
-
-#  شاشة تسجيل الدخول :
-
-![](airC/screenshots/Login.png)
-
-
-#	 إعدادات السيرفر وقاعدة البيانات :
-![](airC/screenshots/server_settings.png)
-
-
-# تغيير كلمة المرور :
-![](airC/screenshots/change_password.png)
-
-# الواجهة :
-![](airC/screenshots/Home.png)
-
-# إدارة المستخدمين :
-
-![](airC/screenshots/manage_users.png)
-
-# تقرير الدخول و تعقب المستخدمين :
-![](airC/screenshots/users_report.png)
-
-
-# الطلعات الجوية: 
-
-![](airC/screenshots/aircraft.png)
-
-#  النسخ الاحتياطي للبيانات :
-
-![](airC/screenshots/Backup.png)
-
-
-
-#  حماية البيانات
-استخدمنا خوازميات التشفير مثل md5 لحماية الدخول و تشفير البيانات
-
-# بيانات الدخول
-
-اسم المستخدم : admin
-
-كلمة المرور : admin
+<h1 style="color:red;">ArmAC / Airc System 2025</h1>
+<h2 style="color:yellow;">Developed by Sameer Salih</h2>
+<h4>sameerssaom@gmail.com | +24999249900 | +249912230352</h4>
 <hr>
 
-مرفق ملف قاعدة البيانات تحت اسم db.sql   
-يحتوي على قاعدة البيانات الأساسية مع كامل الكودالمصدري للنظام  
-قم بنسخ قاعدة البيانات على السيرفر الخاص بك  عند تشغيل النظام ادخل معلومات الدخول
-  
-  هذا النظام ديناميكي بالكامل 	
+<h3>Project Name: ArmAC</h3>
+<h5>Design Period: <u>2023–2025</u></h5>
+<h5>Type: <u>Flight Logging System</u></h5>
+<h5>Language: <u>Visual Basic.NET</u></h5>
+<h5>Database: <u>MySQL</u></h5>
+<h5>Reports: <u>Crystal Report</u></h5>
+<h5>Other Tools: <u>Adobe Photoshop</u></h5>
+<h5>Developer: <u>Sameer Salih</u></h5>
 
+<h3>Purpose:</h3>
+<p>
+A system for tracking drone flights, recording consumption, monitoring parts validity, detecting malfunctions, and managing maintenance.
+</p>
+
+<h3>System Interface Samples:</h3>
+
+<h4>Login Screen:</h4>
+<img src="airC/screenshots/Login.png" alt="Login Screen">
+
+<h4>Server & Database Settings:</h4>
+<img src="airC/screenshots/server_settings.png" alt="Server Settings">
+
+<h4>Change Password:</h4>
+<img src="airC/screenshots/change_password.png" alt="Change Password">
+
+<h4>Main Interface:</h4>
+<img src="airC/screenshots/Home.png" alt="Home Interface">
+
+<h4>User Management:</h4>
+<img src="airC/screenshots/manage_users.png" alt="Manage Users">
+
+<h4>User Login & Tracking Report:</h4>
+<img src="airC/screenshots/users_report.png" alt="Users Report">
+
+<h4>Flight Operations:</h4>
+<img src="airC/screenshots/aircraft.png" alt="Aircraft Operations">
+
+<h4>Data Backup:</h4>
+<img src="airC/screenshots/Backup.png" alt="Backup">
+
+<h3>Data Protection:</h3>
+<p>
+Encryption algorithms such as MD5 were used to secure login and protect data.
+</p>
+
+<h3>Login Credentials:</h3>
+<p>
+Username: <b>admin</b><br>
+Password: <b>admin</b>
+</p>
+<hr>
+
+<p>
+Attached database file: <b>db.sql</b><br>
+Contains the core database along with the complete source code of the system.<br>
+Copy the database to your server and use the login credentials to run the system.
+</p>
+
+<p>
+This system is fully dynamic.
+</p>
 
 </body>
